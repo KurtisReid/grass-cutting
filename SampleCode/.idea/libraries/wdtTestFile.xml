@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wdtTestFile">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/test-classes/wdtTestFile.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
